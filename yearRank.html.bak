@@ -5,37 +5,19 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta property="og:url"           content="/hamivideo/event/yearend.do" />
+<meta property="og:url"           content="https://hamivideo.hinet.net" />
 <meta property="og:type"          content="website" />
 <meta property="og:title"         content="腦霧退散 電影是我的萬靈丹" />
 <meta property="og:description"   content="先看奧斯卡、再追金馬，<br>搭配紅酒效果更佳，金魚腦OUT!" />
 <meta property="og:image"         content="images/event/yearend/Yearend-FB.png" />
 
-<link rel="shortcut icon"  href="https://localhost:8443/hamivideo/favicon_hamivideo_new.ico" />
-<link rel="stylesheet" type="text/css" href="https://localhost:8443/hamivideo/resources/css/global.css?v=20221014" media="all" />
-<link rel="stylesheet" type="text/css" href="https://localhost:8443/hamivideo/resources/css/yearend.css" media="all" />
-<link rel="stylesheet" type="text/css" href="https://localhost:8443/hamivideo/resources/css/jquery-ui.css" media="all" />
-<script type="text/javascript" src="https://localhost:8443/hamivideo/resources/js/jquery-3.5.1.min.js"></script>
-<script type="text/javascript" src="https://localhost:8443/hamivideo/resources/js/jquery-ui.js"></script>
-<script type="text/javascript" src="https://localhost:8443/hamivideo/resources/js/jquery.cookie.js"></script>
-
-
+<link rel="stylesheet" type="text/css" href="./yearend.css" media="all" />
 
 <script>
 !function(b,r,i,d,g,e,w,l){if(b._bw)return;var a=b._bw=function(){a.callMethods?a.callMethods.apply(a,arguments):a.queue.push(arguments)};a.queue=[];var j=r.createElement(i);j.async=!0;j.src=d;var d=r.getElementsByTagName(i)[0];d.parentNode.insertBefore(j,d)}(window,document,'script','https://img.scupio.com/js/pixel.js');
 (window._bwq = window._bwq || []).push(['init', '509-1310A47X0CC9M7R']);
 (window._bwq = window._bwq || []).push(['trackSingle', '509-1310A47X0CC9M7R', 'PageView']);
 </script>
-<!-- end Bridgewell -->
-<script src='https://t.ssp.hinet.net/utag.js' async></script>
-<script>
-    var partnerId = 'f4b8a7';
-    window.__hitagCmdQueue = window.__hitagCmdQueue || [];
-    function hiball() {__hitagCmdQueue.push(arguments)};
-    hiball('fire', partnerId);
-    hiball('cm', partnerId, document.cookie);
-</script>
- 
  </head>
 <body class="yearend">
 <div id="fb-root"></div>
@@ -68,8 +50,8 @@ fjs.parentNode.insertBefore(js, fjs);
 	</div>
 
 	<div class="rankBtn">
-		<div class="into-button" data-href="/hamivideo/event/yearend.do">
-			<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://localhost:8443/hamivideo/event/yearRank.do;src=sdkpreparse" class="fb-xfbml-parse-ignore"><img id="shareToFB" src="https://localhost:8443/hamivideo/resources/images/event/yearend/FB_share_button.png">
+		<div class="into-button" data-href="https://hamivideo.hinet.net">
+			<a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=https://ritchblack.github.io/webtest/yearRank.html;src=sdkpreparse" class="fb-xfbml-parse-ignore"><img id="shareToFB" src="https://localhost:8443/hamivideo/resources/images/event/yearend/FB_share_button.png">
 		</a>
 		</div>    
 	</div>
