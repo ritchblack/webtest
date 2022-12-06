@@ -9,9 +9,9 @@
 <meta property="og:type"          content="website" />
 <meta property="og:title"         content="腦霧退散 電影是我的萬靈丹" />
 <meta property="og:description"   content="先看奧斯卡、再追金馬，<br>搭配紅酒效果更佳，金魚腦OUT!" />
-<meta property="og:image"         content="images/event/yearend/Yearend-FB.png" />
+<meta property="og:image"         content="https://ritchblack.github.io/webtest/images/event/yearend/Yearend-FB.png" />
 
-<link rel="stylesheet" type="text/css" href="./yearend.css" media="all" />
+<link rel="stylesheet" type="text/css" href="https://ritchblack.github.io/webtest/yearend.css" media="all" />
 
 <script>
 !function(b,r,i,d,g,e,w,l){if(b._bw)return;var a=b._bw=function(){a.callMethods?a.callMethods.apply(a,arguments):a.queue.push(arguments)};a.queue=[];var j=r.createElement(i);j.async=!0;j.src=d;var d=r.getElementsByTagName(i)[0];d.parentNode.insertBefore(j,d)}(window,document,'script','https://img.scupio.com/js/pixel.js');

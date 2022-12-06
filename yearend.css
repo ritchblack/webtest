@@ -89,7 +89,7 @@ img{
 	margin: 0 auto;		
 	position:relative;
 	background-size: cover;
-	background-image: url(./images/event/yearend/Into-web-BG.png);
+	background-image: url(https://ritchblack.github.io/webtest/images/event/yearend/Into-web-BG.png);
 }
 .into-title-year{
 	font-size: 160px;
@@ -127,16 +127,16 @@ img{
 	background-size: cover;	
 }
 .rank.movie{
-	background-image: url(./images/event/yearend/Movie-web-BG.png);
+	background-image: url(https://ritchblack.github.io/webtest/images/event/yearend/Movie-web-BG.png);
 }
 .rank.drama{
-	background-image: url(./images/event/yearend/Drama-web-BG.png);
+	background-image: url(https://ritchblack.github.io/webtest/images/event/yearend/Drama-web-BG.png);
 }
 .rank.kids{
-	background-image: url(./images/event/yearend/Kids-web-BG.png);
+	background-image: url(https://ritchblack.github.io/webtest/images/event/yearend/Kids-web-BG.png);
 }
 .rank.anime{
-	background-image: url(./images/event/yearend/Anime-web-BG.png);
+	background-image: url(https://ritchblack.github.io/webtest/images/event/yearend/Anime-web-BG.png);
 }
 
 
